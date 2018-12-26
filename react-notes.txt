@@ -1,0 +1,45 @@
+$ create-react-app frontend
+
+Creating a new React app in /Users/mbentley/Documents/Git/GitHub/bentlema/docker-sandbox/frontend.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> fsevents@1.2.4 install /Users/mbentley/Documents/Git/GitHub/bentlema/docker-sandbox/frontend/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/Users/mbentley/Documents/Git/GitHub/bentlema/docker-sandbox/frontend/node_modules/fsevents/lib/binding/Release/node-v64-darwin-x64/fse.node" already installed
+Pass --update-binary to reinstall or --build-from-source to recompile
++ react@16.7.0
++ react-scripts@2.1.2
++ react-dom@16.7.0
+added 1790 packages from 684 contributors and audited 35690 packages in 71.98s
+found 0 vulnerabilities
+
+
+Initialized a git repository.
+
+Success! Created frontend at /Users/mbentley/Documents/Git/GitHub/bentlema/docker-sandbox/frontend
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd frontend
+  npm start
+
+Happy hacking!
+
